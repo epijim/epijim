@@ -2,6 +2,8 @@
 
 My 🌐  is at [epijim.uk](https://epijim.uk)
 
+I run a cron job that makes commits - so my streak is not human in nature... (I should probably make a bot account)
+
 <!--
 **epijim/epijim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
